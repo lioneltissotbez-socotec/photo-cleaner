@@ -1,4 +1,4 @@
-const CACHE_NAME = 'soco-photo-cleaner-v1.0.1';
+const CACHE_NAME = 'soco-photo-cleaner-v1.0.2';
 const APP_SHELL = [
   './',
   './index.html',
