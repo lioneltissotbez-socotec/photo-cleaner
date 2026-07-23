@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "date": "2026-07-06",
-  "label": "Remplacement du cadre noir export par 4 carrés de coin 2x2 px"
+  "version": "1.0.3",
+  "date": "2026-07-23",
+  "label": "Ajout de la rotation 90 degrés et manuelle dans l’étape Perspective et Rotation"
 }
